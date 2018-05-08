@@ -1,6 +1,6 @@
 {
   "name": "ouanalyse-highcharts-export-data",
-  "version": "6.0.4",
+  "version": "6.0.5",
   "description": "",
   "main": "export-data.src.js",
   "scripts": {
